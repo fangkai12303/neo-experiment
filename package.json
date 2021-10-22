@@ -6,6 +6,7 @@
     "test": "jest",
     "test-watch": "jest --watchAll",
     "start": "snowpack dev",
+    "build": "snowpack build",
     "format": "prettier -w ./*.js"
   },
   "contributors": [
